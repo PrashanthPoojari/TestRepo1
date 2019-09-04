@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<WmGlobalProperties>
+<templateDetails>
+    <templateName>EscrowLimitReachedVIP200</templateName>
+    <enrichmentSource>MDMS</enrichmentSource>
+    <enrichmentFields>
+      <key>Distributor_Name</key>
+      <source>MDMS</source>
+    </enrichmentFields>
+  </templateDetails>
+  <templateDetails>
+    <templateName>EscrowLimitApproachVIP150</templateName>
+    <enrichmentSource>MDMS</enrichmentSource>
+    <enrichmentFields>
+      <key>Distributor_Name</key>
+      <source>MDMS</source>
+    </enrichmentFields>
+  </templateDetails>
+</WmGlobalProperties>
